@@ -7,8 +7,6 @@ I am a Research Assistant in the Embedded Intelligence group at RPTU. My researc
 **Research Interests:** Human Activity Recognition (HAR), Wearable Computing, Self-Supervised Learning, Physics-Informed AI, TinyML, Edge AI
 
 **Selected Publications**
-<h5>Selected Publications</h5>
-
 <strong>Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR</strong> (2025)<br>
 <strong>PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based HAR</strong> (ABC 2025)
 
