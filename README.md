@@ -2,7 +2,7 @@
 
 Research Assistant @ RPTU Kaiserslautern-Landau
 
-I am a Research Assistant in the Embedded Intelligence group at RPTU. My research focuses on Human Activity Recognition (HAR) using wearable and inertial sensors, with interests in self-supervised learning, physics-informed machine learning, and efficient AI for healthcare and assistive technologies.
+I am a Research Assistant in the Embedded Intelligence group at RPTU. My research focuses on Human Activity Recognition (HAR) using wearable device, with interests in self-supervised learning, physics-informed machine learning, and efficient AI for healthcare and assistive technologies.
 
 ## Research Interests
 - Human Activity Recognition
