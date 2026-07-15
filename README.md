@@ -10,7 +10,7 @@ I am a Research Assistant in the Embedded Intelligence group at RPTU. My researc
 Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR(2025)<br>
 PIM: Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based HAR (ABC 2025)
 
-##### 📫 Find Me
-- 🌐 Website: https://murandasi.github.io/researcher/
-- 🎓 Google Scholar: https://scholar.google.com/citations?user=WQT1MfIAAAAJ
-- 🆔 ORCID: https://orcid.org/0009-0009-8580-1248
+**Find Me** <br>
+- 🌐 [Website](https://murandasi.github.io/researcher/)
+- 🎓 [Google Scholar](https://scholar.google.com/citations?user=WQT1MfIAAAAJ)
+- 🆔 [ORCID](https://orcid.org/0009-0009-8580-1248)
