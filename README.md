@@ -1,16 +1,22 @@
-## Hi there 👋
+# Dominique Nshimyimana
 
-<!--
-**dominique-nshimyimana/dominique-nshimyimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Research Assistant @ RPTU Kaiserslautern-Landau
 
-Here are some ideas to get you started:
+I am a Research Assistant in the Embedded Intelligence group at RPTU. My research focuses on Human Activity Recognition (HAR) using wearable and inertial sensors, with interests in self-supervised learning, physics-informed machine learning, and efficient AI for healthcare and assistive technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Research Interests
+- Human Activity Recognition
+- Wearable Computing
+- Self-Supervised Learning
+- Physics-Informed AI
+- TinyML
+- Edge AI
+
+## Selected Publications
+- **Contrastive Left-Right Wearable Sensors (IMUs) Consistency Matching for HAR** (2025)
+- **Physics-Informed Multi-task Pre-training for Improving Inertial Sensor-Based HAR** (ABC 2025)
+
+## 📫 Find Me
+- 🌐 Website: https://murandasi.github.io/researcher/
+- 🎓 Google Scholar: https://scholar.google.com/citations?user=WQT1MfIAAAAJ
+- 🆔 ORCID: https://orcid.org/0009-0009-8580-1248
