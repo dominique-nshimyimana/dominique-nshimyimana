@@ -1,10 +1,10 @@
-## Dominique Nshimyimana
+### Dominique Nshimyimana
 
 Research Assistant @ RPTU Kaiserslautern-Landau
 
 I am a Research Assistant in the Embedded Intelligence group at RPTU. My research focuses on Human Activity Recognition (HAR) using wearable device, with interests in self-supervised learning, physics-informed machine learning, and efficient AI for healthcare and assistive technologies.
 
-### Research Interests
+#### Research Interests
 | | | |
 |---|---|---|
 | Human Activity Recognition | Wearable Computing | TinyML |
